@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724636135343",
+    "project_id": "solution-chamenge",
+    "storage_bucket": "solution-chamenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724636135343:android:5248eb65c03aca82bac95a",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724636135343-fpr8s9rj2n5d43g7fgm625s44ufbihhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjMAqOXnwWPaPJC7wsRVMcLiWd5trV0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724636135343-fpr8s9rj2n5d43g7fgm625s44ufbihhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
